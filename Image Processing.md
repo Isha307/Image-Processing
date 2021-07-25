@@ -1,7 +1,7 @@
 **It is a method that develops to convert the image into digital form and perform some operations 
-to obtain specific models or to extract useful information from it
+to obtain specific models or to extract useful information from it**
 
-Generally, the Image Processing system treats images as two-dimensional signals 
+**Generally, the Image Processing system treats images as two-dimensional signals 
 when applying predetermined signal processing methods.**
 
 # Image processing basically involves the following three steps:
