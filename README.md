@@ -14,7 +14,7 @@
 **Corner detection**
 1. Harris 
 2. operatorShi and TomasiLevel 
-3. 3.curve curvature 
+3. curve curvature 
 4. Hessian feature strength measures 
 5. SUSAN 
 6. FAST
